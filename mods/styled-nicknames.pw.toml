@@ -1,0 +1,13 @@
+name = "Styled Nicknames"
+filename = "styled-nicknames-1.1.2+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19805f210d7e17909e192082ac82e76ae75865bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3878279
+project-id = 523083

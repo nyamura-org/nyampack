@@ -1,0 +1,13 @@
+name = "Polymer"
+filename = "polymer-all-0.2.26+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2defdf671d20e2347858756cc81126905cf4cdaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4526068
+project-id = 551890

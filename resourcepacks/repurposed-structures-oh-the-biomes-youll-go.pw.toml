@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Oh The Biomes You'll Go Compat Datapack"
+filename = "Repurposed_Structures-Oh_The_Biomes_Youll_Go_v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85259a9adc15783c584005c076742ea945b9dd3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4056871
+project-id = 694918

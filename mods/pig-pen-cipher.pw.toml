@@ -1,0 +1,13 @@
+name = "Pig Pen Cipher"
+filename = "PigPen-Fabric-1.19.2-11.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a59bb7795084497b64c0044ca0fe477a2a082196"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3943073
+project-id = 396234

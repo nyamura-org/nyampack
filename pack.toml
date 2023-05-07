@@ -1,0 +1,13 @@
+name = "NyamuraSubModpack"
+author = "pdewebq"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9b1cb62f434d2b72138d0b93cb08ab86783645f2d067da256e4bb30d1e824222"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"
