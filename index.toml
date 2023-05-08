@@ -406,8 +406,8 @@ hash = "03adcd6c77e91bec7d78eddb184593da6e689aad918ee8b1fb7fa39bf8471e63"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "a5be740c4be988bd34c64fe88d84df011cfb894e438743e0249fff47e7457ca6"
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "652142461f9c339fe9ca7b877474376b960aa2ab40ee2142a4eb9f196cc37dc6"
 metafile = true
 
 [[files]]
