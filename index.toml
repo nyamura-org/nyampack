@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/main.json"
+hash = "6ddd2d96b1819cef5cd1867c9e3518687739c16f59c0c08bc42db661f14cc7da"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "6ff760cf8077e049358621855a1be3e6b5d3a301de0195f60ec5e1255b4f686e"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "2b6e8b2e66eb2dc79143666152b05e1e8a61280f36902ed96d87029c10c81459"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "0993c0fbce461dc7a88f59456b0c23285624f3a432725821d7caf3fe4f82c423"
+
+[[files]]
+file = "config/waila/megane.json"
+hash = "993fe47c4d50be82b0f3495b7434af30c18fc63c8b5df25589239a41cd0d1fd3"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
