@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "8f9ad3a0fff18b408e29d0d876716d0bafddde33a85edf844d13aabf7606fc73"
+hash = "f3e31b7b7121c2c3e4bc9477b4ecf3dfc6b9172452c84e988ec67de0c87adf19"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+hash = "9471dcfeb9cb75a237b26c08c18a85e048e023e79182c5005fdb8f8c3144bd0f"
 metafile = true
 
 [[files]]
@@ -416,6 +416,11 @@ hash = "b52f134a96b80a850c9094a009ceecb418527901327f9c3cf0923c7c3bce1d5f"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "c6018049883190dee50c5a5ca7550142dd7578254e27cb4214b0dddeecdfe4dc"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api-fabric.pw.toml"
 hash = "53d39e1a673ca6059ca9da17125c74e91f7ee32ff0400cfc4295f1a4703c64a0"
 metafile = true
@@ -463,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "b2b5c11320601e1bccb196404515ad8f6b35ccb6db508db785806d483b71085b"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "858cf7fb44a3478586d7e02e4e93dbaf1bbcd91096e029e9f8f10e1691e23fd1"
 metafile = true
 
 [[files]]
