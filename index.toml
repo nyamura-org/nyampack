@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/watson.pw.toml"
-hash = "fc60998ed872290e45439865bea55ba916944b9f98946d1056c67e6f92958501"
+hash = "068384a19abc350c35f5c1c80323f04cb3428828350591f6c2bc9fadf65987dc"
 metafile = true
 
 [[files]]

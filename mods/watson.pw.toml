@@ -1,6 +1,6 @@
 name = "Watson"
 filename = "watson-fabric-1.14.4+1.19.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
