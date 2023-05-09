@@ -41,6 +41,11 @@ hash = "0406c9ea9996452576cbad871e7462d93bf44e45aacf6f1ea49de4fdb6735815"
 metafile = true
 
 [[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "96bc16fb9d5dc19154796096ae9cbc7b387077ca6f537f8bc5871bb2d7dbd153"
+metafile = true
+
+[[files]]
 file = "mods/better-village-fabric.pw.toml"
 hash = "eafa70ecaf39299e384e39010a2e30f08856a092377ff95be1010b1f4afe1400"
 metafile = true
@@ -136,6 +141,11 @@ hash = "be005a7648907f2e32727e25a5cadceebd37835d04de2dbee763618c5c02bb37"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "9bda84bbfde55c7f9bb4bebdc274dbb1e3204b22189cae710996878a2edac213"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
 metafile = true
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "90e0de2ccc3cc3559ac161a7e21ce964dc299015c7c0c662cd2c80dc5da6a465"
+metafile = true
+
+[[files]]
+file = "mods/inv-view.pw.toml"
+hash = "0c86d59bfc491ed004b7a33561f9a0f95fabfa10325876da3405746138f63458"
 metafile = true
 
 [[files]]
@@ -413,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "fad523c7d3d63ba211e1970cb9701acd3d808b8c608ef8ffd412234783a92f01"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "5db41327f83479b50f4952a0e2c561a31f43ad3932e605a13a6960ece40558d9"
 metafile = true
 
 [[files]]
