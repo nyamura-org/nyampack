@@ -366,6 +366,11 @@ hash = "7efe60a5e540ab14416d43159601936336d4725125b5a2a5c3d0de80a1be6fbe"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "542169f07384f64070bdb2a30329d7c24f7710d381d345b8d31b8be8b4cbc395"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
