@@ -156,6 +156,11 @@ hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "1c28550134fa3fbaa8893ecf1eef52d525c337649ba190f07ea2eeeacd556156"
+metafile = true
+
+[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "bdcbeddb7a071aac0f09158a9aaed03b27a0205025e426c53fdefa57199b5f73"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
+metafile = true
+
+[[files]]
+file = "mods/iceberg-fabric.pw.toml"
+hash = "9a2f80adb3ee17c60a6ec5e0bb8800aa37345655fcba54cfd2f9da5e768b9887"
 metafile = true
 
 [[files]]
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "ec9c6fcd35e2c4678114755db5ad063b5cb935f4ac1a8b635c8adc9b201e7e0d"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips-fabric.pw.toml"
+hash = "d8d559f9fc3ee6827f5a1d29a57440645a5a6b4c2c451438833b768e26b6dd80"
 metafile = true
 
 [[files]]
@@ -293,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "03234dbf628208e3a089ac1368e110ba60f08c3b4f514e2b9712f13989839dfb"
+metafile = true
+
+[[files]]
+file = "mods/prism-fabric.pw.toml"
+hash = "ad2cabc8f0042248e26eb19c78f68ab9adde8a2a8e35979f84950b98a32c34f3"
 metafile = true
 
 [[files]]
