@@ -14,7 +14,7 @@ hash = "2b6e8b2e66eb2dc79143666152b05e1e8a61280f36902ed96d87029c10c81459"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "0993c0fbce461dc7a88f59456b0c23285624f3a432725821d7caf3fe4f82c423"
+hash = "87229bc377031b6c0bd4d16cce90e9cc2db5346fe9bd9fd040e77790f7018389"
 
 [[files]]
 file = "config/waila/megane.json"
@@ -38,11 +38,6 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "0406c9ea9996452576cbad871e7462d93bf44e45aacf6f1ea49de4fdb6735815"
-metafile = true
-
-[[files]]
-file = "mods/better-fabric-console.pw.toml"
-hash = "96bc16fb9d5dc19154796096ae9cbc7b387077ca6f537f8bc5871bb2d7dbd153"
 metafile = true
 
 [[files]]
@@ -86,11 +81,6 @@ hash = "0b91105ce39059ff6ac953ef6df95cfed8f7dc3297a919ab79c33019ececdef8"
 metafile = true
 
 [[files]]
-file = "mods/chunky-pregenerator.pw.toml"
-hash = "71fec20ecc62002bfec36f0629d78447c9998ae147385ca400d27e27c4bbbed2"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
@@ -126,11 +116,6 @@ hash = "a04551f0be15f759309da835317d4680c4b46e8ad93900b902490ac5cfdcb4ce"
 metafile = true
 
 [[files]]
-file = "mods/easyauth.pw.toml"
-hash = "f3e31b7b7121c2c3e4bc9477b4ecf3dfc6b9172452c84e988ec67de0c87adf19"
-metafile = true
-
-[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "4ae65ae9f012e7b1d27fa2934185dfbd35f6009d850c5d3662d3c10cc9a64be4"
 metafile = true
@@ -138,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "be005a7648907f2e32727e25a5cadceebd37835d04de2dbee763618c5c02bb37"
-metafile = true
-
-[[files]]
-file = "mods/essential-commands.pw.toml"
-hash = "9bda84bbfde55c7f9bb4bebdc274dbb1e3204b22189cae710996878a2edac213"
 metafile = true
 
 [[files]]
@@ -191,11 +171,6 @@ hash = "90e0de2ccc3cc3559ac161a7e21ce964dc299015c7c0c662cd2c80dc5da6a465"
 metafile = true
 
 [[files]]
-file = "mods/inv-view.pw.toml"
-hash = "0c86d59bfc491ed004b7a33561f9a0f95fabfa10325876da3405746138f63458"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
 metafile = true
@@ -236,11 +211,6 @@ hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
 metafile = true
 
 [[files]]
-file = "mods/ledger.pw.toml"
-hash = "ec9c6fcd35e2c4678114755db5ad063b5cb935f4ac1a8b635c8adc9b201e7e0d"
-metafile = true
-
-[[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "d8d559f9fc3ee6827f5a1d29a57440645a5a6b4c2c451438833b768e26b6dd80"
 metafile = true
@@ -258,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "04862951c5d34bdb0620a15cc26037546b37c0db050559b8339772ff95732790"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "2e117e0b6ee49a5e943e78e4f13dd3489294bcb8ccf0f7eae21b7fe80cb6f492"
 metafile = true
 
 [[files]]
@@ -298,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "9e538cf089ca697fdd2e932f36857651d392e6f00debf8cce24508f3ce744b63"
-metafile = true
-
-[[files]]
-file = "mods/patboxs-banhammer.pw.toml"
-hash = "f46c4f6b77e91bc3ac7cc5773cab7b16c4243923b48978b9caf83c39468c4b43"
 metafile = true
 
 [[files]]
@@ -361,11 +321,6 @@ hash = "43b8876c542e2ab9e923e0ea1e4a05b08a302258d41e6dc7dc1b5a7d90e7c855"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "ad6042e4db365e6be33c7562edf9a7f6a9373d389e408da2a25a35e2d0a8bca2"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
@@ -376,11 +331,6 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "7efe60a5e540ab14416d43159601936336d4725125b5a2a5c3d0de80a1be6fbe"
-metafile = true
-
-[[files]]
 file = "mods/spirit.pw.toml"
 hash = "542169f07384f64070bdb2a30329d7c24f7710d381d345b8d31b8be8b4cbc395"
 metafile = true
@@ -388,21 +338,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "5c7bddfda10bfadafabc6e5480a6eea730d1495793b5d3561457c27f061ae301"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "ddbba6dcf71823bf28d7c025d7bbc1ccd079040547f86eb0081d05a530a2dfd3"
-metafile = true
-
-[[files]]
-file = "mods/styled-player-list.pw.toml"
-hash = "f7f80c031114c96a2c49d1cba90bdbd41066e4ab0cef545b0ccdb94feac0da17"
 metafile = true
 
 [[files]]
@@ -428,21 +363,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "fad523c7d3d63ba211e1970cb9701acd3d808b8c608ef8ffd412234783a92f01"
-metafile = true
-
-[[files]]
-file = "mods/vanish.pw.toml"
-hash = "5db41327f83479b50f4952a0e2c561a31f43ad3932e605a13a6960ece40558d9"
-metafile = true
-
-[[files]]
-file = "mods/watson.pw.toml"
-hash = "068384a19abc350c35f5c1c80323f04cb3428828350591f6c2bc9fadf65987dc"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
