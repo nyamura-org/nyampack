@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "add8b67dd1591236f24ff2b1b1b279723c1a0a28f769e06ad3e675fb48ce8b78"
 
