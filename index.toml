@@ -13,6 +13,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "add8b67dd1591236f24ff2b1b1b279723c1a0a28f769e06ad3e675fb48ce8b78"
 
 [[files]]
+file = "config/waila/megane.json"
+hash = "993fe47c4d50be82b0f3495b7434af30c18fc63c8b5df25589239a41cd0d1fd3"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
