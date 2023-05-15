@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "add8b67dd1591236f24ff2b1b1b279723c1a0a28f769e06ad3e675fb48ce8b78"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
@@ -156,6 +160,11 @@ hash = "90e0de2ccc3cc3559ac161a7e21ce964dc299015c7c0c662cd2c80dc5da6a465"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "211982aec4a31d8ff088d48ad3316b601f7018011b6edde9e7d31914d2fd7cad"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
 metafile = true
@@ -198,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "d8d559f9fc3ee6827f5a1d29a57440645a5a6b4c2c451438833b768e26b6dd80"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "c4e085f286bfd522bc7875205a339d9bdef9a68adab4b02599df9e6668769804"
 metafile = true
 
 [[files]]

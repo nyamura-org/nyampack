@@ -1,0 +1,12 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        }
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": {
+            "value": false
+        }
+    }
+}
