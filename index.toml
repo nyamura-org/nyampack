@@ -9,8 +9,12 @@ file = "config/byg/biomepedia.json5"
 hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
 
 [[files]]
+file = "config/inventoryprofilesnext/MouseTweaks.cfg"
+hash = "1314e250813521efad43b9432f576ce8433ff2fc184e1fdd8deb87942076c34f"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "add8b67dd1591236f24ff2b1b1b279723c1a0a28f769e06ad3e675fb48ce8b78"
+hash = "024333b92fc7c840e2713198d3cb318f0aba6bc1e387cd8ff034cdfd633228f1"
 
 [[files]]
 file = "config/waila/megane.json"
