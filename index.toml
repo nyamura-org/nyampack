@@ -1,16 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "1314e250813521efad43b9432f576ce8433ff2fc184e1fdd8deb87942076c34f"
+
+[[files]]
 file = "config/bclib/main.json"
 hash = "6ddd2d96b1819cef5cd1867c9e3518687739c16f59c0c08bc42db661f14cc7da"
 
 [[files]]
 file = "config/byg/biomepedia.json5"
 hash = "6319ed3acee6edb9ad19113e257efa793b840c0d1ecc4bb5663320a1d656066b"
-
-[[files]]
-file = "config/inventoryprofilesnext/MouseTweaks.cfg"
-hash = "1314e250813521efad43b9432f576ce8433ff2fc184e1fdd8deb87942076c34f"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
