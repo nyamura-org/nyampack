@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "d3ed12035a4ed8383c65ee3d851a1b4289468588ade0b9c3b0462d1f3b7e385f"
+hash = "a7f51e2c26f18df1bbe3c6315a3494ef679e78a55773b89ac86a9dda6b46c93a"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania-fabric.pw.toml"
-hash = "5da8e35c6b2b5a0ccd4e628cc2490024341d5d2b565b2d0ce3478d8cbd9a66d8"
+hash = "3b961892fdd7fd53a9b020c9b3416876e39c96df25a1f2981361e0e5e832e626"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "e28cdedaa23513cebb54443ebc09287a1c174daa2cf4644b8ab08cc66075f284"
+hash = "8c86cd8f2c4d8cff04763afd80211f45672433c8e06a13106ca76ff41dbabaeb"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "cc60139375f03edeb630730779f17d06a5d3ac99daae8f41415fa8adf903b960"
+hash = "04f4fdeea7d6d29539ae6581184fb469a525ef959c5cbff5b1ed6aad9040a644"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "211982aec4a31d8ff088d48ad3316b601f7018011b6edde9e7d31914d2fd7cad"
+hash = "1490291297ba2d3d308aff734704469eb41a9c20712cae3e26d9d5161fba93e5"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "c4e085f286bfd522bc7875205a339d9bdef9a68adab4b02599df9e6668769804"
+hash = "df05e4b7082fe70f6c7261c76bde238f0550d7297aca568776a921e41cd9c3f3"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "d697dc69428d5bc35ff36c105dcef1205e7e58f148d092d79d2fb6496dcb572b"
+hash = "8aedcd591ddbc90e27ba60f0853b182b6308fcee3db1650dce0812284ec8f7ab"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "43b8876c542e2ab9e923e0ea1e4a05b08a302258d41e6dc7dc1b5a7d90e7c855"
+hash = "b9abc9014c9d252f94fb3241a332e01a8ea1c9ec73cd847ccb31e2ad4719f8d6"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "ba42698278b6f9c15e7c8e91252bfcc607e95cb3941bf6526fe04a2b2df2e73c"
+hash = "82a807e44e5868ec9816cbf9218f89810fb43b7e7c8369bcd78c38698722984f"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "03adcd6c77e91bec7d78eddb184593da6e689aad918ee8b1fb7fa39bf8471e63"
+hash = "5e40c7e351dd550cd44adeac3c3dddf2e9a7b0a67ce8c40243aca52f3609fc73"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b52f134a96b80a850c9094a009ceecb418527901327f9c3cf0923c7c3bce1d5f"
+hash = "de820e3dd2a2b21e80d382c18883758c0844a18c83d45fdb90b24af2eeb5bbe8"
 metafile = true
 
 [[files]]

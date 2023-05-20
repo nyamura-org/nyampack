@@ -1,13 +1,13 @@
 name = "Polymer"
-filename = "polymer-all-0.2.26+1.19.2.jar"
+filename = "polymer-all-0.2.27+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2defdf671d20e2347858756cc81126905cf4cdaa"
+hash = "d3ed680b9ba65f21ecc86f3e523a28706c23ba42"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4526068
+file-id = 4537056
 project-id = 551890
