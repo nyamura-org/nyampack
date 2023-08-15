@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-botania.pw.toml"
-hash = "8ea12e8ef4e97799c6298af1a9084fd86ce89b3fdc15b1e32a20c04c692ccd74"
+hash = "60db89329a644c09df7db85097e393700f718a88bc82a065dd40de23c57e949b"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "0fe4e410ea18c9485ef1411b4b852ae9a648ee6edfc7d2a6ce235ffaaf78cccd"
+hash = "7a7e6535fd15e28303f9604187fe0c60eda98eb6f187257e16745c7051af8099"
 metafile = true
 
 [[files]]
