@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "b7fb3fe92ac5400f9b701f8f88417dc395a6c43141d07ee69d1d453439aa83fc"
+hash = "25eb272f5f04290914e0b4c7370cf0ee059ee11888c43b8fd2805aaafecfa39c"
 metafile = true
 
 [[files]]
