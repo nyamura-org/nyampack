@@ -1,13 +1,13 @@
 name = "Nyampack"
 author = "pdewebq"
-version = "1.0.4"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "05c919bb7f9ff718a9e2e86dc80948367289affc57293e60ce3ac2e38f56061d"
+hash = "2a9f84a0f12826cf848d028de5b98b73ef457424dfcb03d516144f9a8fe7e4a1"
 
 [versions]
-fabric = "0.14.19"
+fabric = "0.14.22"
 minecraft = "1.19.2"
