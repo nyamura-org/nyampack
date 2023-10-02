@@ -111,6 +111,11 @@ hash = "7a04bd02a9031ffc9a8683aa7480d5a9b367a94824ca7229762abadca556be7e"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a3e25976d9a9b439188d00eb196bd343a0a7f930f47dcc3779c3b9e638084d75"
+metafile = true
+
+[[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "dc2026de3d6966439b23d4fdba456f6ce4c02279091f68b28bac2a28cdeb979e"
 metafile = true
