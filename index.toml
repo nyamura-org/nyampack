@@ -281,6 +281,11 @@ hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes.pw.toml"
+hash = "0f137959f5f507c74833ff074bfcbd0734f852c1d2c38e4c7655ddb7e136de2b"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "d61a3eaafc4c4ef505d8dee5855e9583d95415f0de22c36b29a36ff44c3278bb"
 metafile = true
