@@ -336,6 +336,11 @@ hash = "5025f1c261af118b0b00566ea9f0cc37a502fc9572fc7388b55028c23f34baa1"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "46e05f58ab48be6293111279cea2e1c45b65ced5cc3917819e9f3878461f137c"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7a802f4cd8e54d9f8a61bf24a687b05109ee9c556f84d1875f1832cecc3f582c"
 metafile = true
@@ -353,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "df9d8a09d80b51ef25537cf1ad30f26a38966de0ccc8894e4bad57dccd4bf1fb"
 metafile = true
 
 [[files]]
